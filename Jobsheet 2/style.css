@@ -17,7 +17,6 @@ h2{
     padding: 50px;
 }
 body{
-    background: url('image/tree.jpeg'), url('image/field1.jpeg');
-    background-repeat: no-repeat, repeat;
+    background: lightcyan;
     color: white;
 }
