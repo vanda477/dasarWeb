@@ -10,7 +10,7 @@ $cek = mysqli_num_rows($result);
 
 if ($cek) {
     echo "Anda berhasil login. Silahkan menuju "; ?>
-    <a href="homeAdmin.html">Halaman Home</a>
+    <a href="homeGuest.php">Halaman Home</a>
 <?php
 } else {
     echo "Anda gagal login. Silahkan "; ?>
